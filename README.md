@@ -1,0 +1,9 @@
+- 👋 Eu sou @cwicsz
+- 👀 Estou interessado em novos conhecimentos sobre TI ( java, javascript e html )
+- 🌱 Hoje em dia, eu estou apenas estudando e entendendo sobre a Área
+- 📫 Para contato use o discord: cw
+
+<!---
+cwicsz/cwicsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
