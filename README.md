@@ -1,4 +1,4 @@
-- 👋 Eu sou @cwicsz
+- 👋 Eu sou caic
 - 👀 Estou interessado em novos conhecimentos sobre TI ( python, javascript e html )
 - 🌱 Hoje em dia, eu estou apenas estudando e entendendo sobre a Área
 - 📫 Para contato use o discord: cw e meu email finhiclantenjiku@gmail.com
